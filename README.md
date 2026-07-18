@@ -1,6 +1,6 @@
 # Seoul Bike Rental Demand Prediction and Analytics
 
-> **GitHub Repository:** Add your public repository link here before submission.
+> **GitHub Repository:** (https://github.com/Govi-1723/Wheel_Wise.git)
 
 ## 1. Project Description
 
